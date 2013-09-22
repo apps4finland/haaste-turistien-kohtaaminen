@@ -1,6 +1,6 @@
-## Tässä kansiossa: kaikki tarpeellinen matkailijoiden vierailukokemuksen personalisoimiseksi
+## Tässä kansiossa: kaikki tarpeellinen turistien ja paikallisten asukkaiden kohtaamiskulttuurin kehittämiseen
 
-Tämä on Apps4Finland-kilpailun _Henkilökohtainen turismi_ -haastetta varten koottu tukipaketti. 
+Tämä on Apps4Finland-kilpailun _Vakiasukit ja vierailijat vuorovaikutukseen_ -haastetta varten koottu tukipaketti. 
 
 ## Haaste sinulle
 
