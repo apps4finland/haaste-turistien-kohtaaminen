@@ -8,8 +8,7 @@ sparrausyhteisöjen kiinnostuneiden jäsenten kanssa.
 
 Sparrausyhteisöjä
 =================
-[1] Lisää kaupunkia Helsinkiin Facebook-ryhmä: <br>
-[2] Finnish Open Data Ecosystem Facebook-ryhmä: https://www.facebook.com/groups-fi.okfn <br>
+[1] Helsinki tapahtumat - Helsinki the Venue Facebook-ryhmä: https://www.facebook.com/groups/tapahtumahelsinki
 
 Haastekumppanin GitHub-kansio
 =============================
