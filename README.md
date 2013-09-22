@@ -5,7 +5,7 @@ Tämä on Apps4Finland-kilpailun _Vakiasukit ja vierailijat vuorovaikutukseen_ -
 ## Haaste sinulle
 
 Parasta matkailussa on monen mielestä se, kun voi tuntea tulleensa hyväksytyksi paikalliseen yhteisöön,
-olla osana jokapäiväistä elämänmenoa. Turisitien ja paikallisten vuorovaikutuskulttuurin edistäminen
+olla osana jokapäiväistä elämänmenoa. Turistien ja paikallisten vuorovaikutuskulttuurin edistäminen
 tarjoaa mahdollisuuksia vieraiden kielten oppimiseen, historiallisten ja gastronomisten kokemusten
 sekä maailmankatsomusten vertailuun. Kuinka voimme rikastuttaa sekä turistien että paikallisten elämää?
 Ratkaisusi tähän haasteeseen tulee tarjota työkaluja kulttuurivaihtoon ja pitkäaikaisten linkkien
